@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64ee6a3b.chunk.css",
+    "main.js": "/static/js/main.0bcb4689.chunk.js",
+    "main.js.map": "/static/js/main.0bcb4689.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e5d004c7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e5d004c7.js.map",
+    "static/css/2.03d21152.chunk.css": "/static/css/2.03d21152.chunk.css",
+    "static/js/2.d5e690e0.chunk.js": "/static/js/2.d5e690e0.chunk.js",
+    "static/js/2.d5e690e0.chunk.js.map": "/static/js/2.d5e690e0.chunk.js.map",
+    "static/js/3.107ce678.chunk.js": "/static/js/3.107ce678.chunk.js",
+    "static/js/3.107ce678.chunk.js.map": "/static/js/3.107ce678.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.03d21152.chunk.css.map": "/static/css/2.03d21152.chunk.css.map",
+    "static/css/main.64ee6a3b.chunk.css.map": "/static/css/main.64ee6a3b.chunk.css.map",
+    "static/js/2.d5e690e0.chunk.js.LICENSE.txt": "/static/js/2.d5e690e0.chunk.js.LICENSE.txt",
+    "static/media/animo.0e94df58.jpeg": "/static/media/animo.0e94df58.jpeg",
+    "static/media/aviso.d2d1dedf.png": "/static/media/aviso.d2d1dedf.png",
+    "static/media/chiu.918df61d.png": "/static/media/chiu.918df61d.png",
+    "static/media/chua.beae95a6.jpg": "/static/media/chua.beae95a6.jpg",
+    "static/media/cordel.2c1e6c57.png": "/static/media/cordel.2c1e6c57.png",
+    "static/media/dlsu.3050b0a7.png": "/static/media/dlsu.3050b0a7.png",
+    "static/media/gonzalez.5771ee7a.png": "/static/media/gonzalez.5771ee7a.png",
+    "static/media/manzano.4dbabf27.jpg": "/static/media/manzano.4dbabf27.jpg",
+    "static/media/ona.2633dd10.png": "/static/media/ona.2633dd10.png",
+    "static/media/sy.338e8fea.png": "/static/media/sy.338e8fea.png",
+    "static/media/tan.bd030d8a.png": "/static/media/tan.bd030d8a.png",
+    "static/media/tapia.3de09a4d.png": "/static/media/tapia.3de09a4d.png",
+    "static/media/torneo.892cf1ee.png": "/static/media/torneo.892cf1ee.png",
+    "static/media/ubando.5904777a.png": "/static/media/ubando.5904777a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5d004c7.js",
+    "static/css/2.03d21152.chunk.css",
+    "static/js/2.d5e690e0.chunk.js",
+    "static/css/main.64ee6a3b.chunk.css",
+    "static/js/main.0bcb4689.chunk.js"
+  ]
+}
