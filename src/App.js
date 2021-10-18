@@ -220,7 +220,7 @@ function App() {
         </DialogTitle>
         <DialogContent dividers>
           <Typography gutterBottom>
-            This COVID-19 vaccine allocation app allows decision maker to determine the optimal distribution of the vaccines in a particular region. It features an optimization model that can be modified to either minimize vaccine requirement to stop the disease spread or minimize disease spread with limited vaccine supply.  This app is developed with several researchers in different disciplines of engineering, social sciences and business in cooperation with the Data Science Institute of De La Salle University.
+            This COVID-19 vaccine allocation app allows decision maker to determine the optimal distribution of the vaccines in a particular region. It features an optimization model that can be modified to either minimize vaccine requirement to stop the disease spread or minimize disease spread with limited vaccine supply.  This app is developed with several researchers in different disciplines of engineering, social sciences and business in cooperation with the Dr. Andrew L. Tan Data Science Institute of De La Salle University.
           </Typography>
           <br />
           <Typography variant="h3">
