@@ -14,7 +14,7 @@ import Papa from 'papaparse';
 import { Button, TextField, Box, Chip, Grid, Radio, Container, FormControlLabel, RadioGroup, InputAdornment, Icon, FormControl, Input, MenuItem, Select, Slider, Typography } from '@material-ui/core';
 
 // Production
-const apiBase = 'https://api.covidapp.manzano.tech/'
+const apiBase = 'http://ccscloud1.dlsu.edu.ph:11280/'
 // Staging
 // const apiBase = 'http://13.229.47.250:5000/'
 // Development
